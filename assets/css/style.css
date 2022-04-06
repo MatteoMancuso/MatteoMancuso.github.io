@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background: url("../img/DeveloperDue.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -450,6 +450,13 @@ section {
   height: 10px;
   transition: 0.9s;
   background-color: #0563bb;
+}
+
+.skills .progress-barUno {
+  width: 1px;
+  height: 10px;
+  transition: 0.9s;
+  background-color: #AAF195;
 }
 
 /*--------------------------------------------------------------
